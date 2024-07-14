@@ -1,3 +1,9 @@
+**Name:** MEET DANGI  
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT08DS2379
+**Domain:** FULL STACK  
+**Duration:** june to July 2024  
+
 
 #### Login page
 
