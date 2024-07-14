@@ -17,7 +17,7 @@ This portfolio is organized into sections that make it easy to find what you're 
 
 
 ### Objective
-Demonstrate Skills and Experience: A portfolio aims to convince potential employers, clients, or collaborators that you have the necessary skills and experience for a particular role or project.
+ portfolio aims to convince potential employers, clients, or collaborators that you have the necessary skills and experience for a particular role or project.
 
 ### Key Activities
 - **Cding**: Ensuring the Code is free from all the errors and is maintainable.
