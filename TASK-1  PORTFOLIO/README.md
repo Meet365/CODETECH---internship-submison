@@ -17,7 +17,7 @@ This portfolio is organized into sections that make it easy to find what you're 
 
 
 ### Objective
-The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset containing population data from 1970 to 2022 for countries around the world. The aim is to uncover insights into population trends, distributions, correlations, and outliers through visualizations.
+Demonstrate Skills and Experience: A portfolio aims to convince potential employers, clients, or collaborators that you have the necessary skills and experience for a particular role or project.
 
 ### Key Activities
 - **Cding**: Ensuring the Code is free from all the errors and is maintainable.
