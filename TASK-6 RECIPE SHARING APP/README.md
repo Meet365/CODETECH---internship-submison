@@ -22,7 +22,7 @@ If you want to run it on your local machine, please follow the steps below.
 
 1.  Clone the repository
 
-	`git clone https://github.com/HarryYu02/Recipe-App.git` 
+	`git clone https://github.com/Your24guy` 
 
 2.  Install frontend dependencies
 
